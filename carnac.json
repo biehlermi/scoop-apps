@@ -1,0 +1,19 @@
+{
+    "homepage": "http://carnackeys.com",
+    "version": "2.2.155",
+    "url": "https://github.com/Code52/carnac/releases/download/2.2.155/carnac-2.2.155-full.nupkg?fn=/dl.zip",
+    "hash": "8e065d2bfeffe899be8df4581f63077ccad593bf7024a7651836e9a93283886b",
+    "checkver": {
+        "github": "https://github.com/Code52/carnac"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Code52/carnac/releases/download/$version/carnac-$version-full.nupkg?fn=/dl.zip"
+    },
+    "extract_dir": "lib\\net45",
+    "shortcuts": [
+        [
+            "Carnac.exe",
+            "Carnac"
+        ]
+    ]
+}
