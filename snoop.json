@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/cplotts/snoopwpf",
+    "version": "2.8.0",
+    "url": "https://chocolatey.org/api/v2/package/snoop/2.8.0?fn=/dl.zip",
+    "hash": "d934f7302d394b6d335dfce15b6184dab7d86d3e6e8ba991303ce6d41fb77ab4",
+    "extract_dir": "tools",
+    "post_install": "rm $dir\\chocolateyInstall.ps1",
+    "shortcuts": [
+        [ "Snoop.exe", "Snoop" ]
+    ]
+}
