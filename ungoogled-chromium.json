@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/Eloston/ungoogled-chromium",
+    "version": "66.0.3359.139-1",
+    "url": "https://github.com/squalus/ungoogled-chromium-binaries/releases/download/66.0.3359.139-1/ungoogled-chromium_66.0.3359.139-1_windows.zip",
+    "hash": "c13f937d29dfd6d3d94ecc2df075c11434e9f01b675b699638523e4e4feb3991",
+    "shortcuts": [
+        ["chrome.exe", "Chromium"]
+    ],
+    "extract_dir": "ungoogled-chromium_66.0.3359.139-1_windows",
+    "checkver": {
+        "github": "https://github.com/ungoogled-software/ungoogled-chromium-binaries"
+    }
+}

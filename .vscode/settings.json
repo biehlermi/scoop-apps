@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "json.schemas": [
+        {
+            "fileMatch": [ "*.json" ],
+            "url": "https://github.com/lukesampson/scoop/raw/master/schema.json"
+        }
+    ]
+}
