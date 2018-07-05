@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0-alpha.14",
+    "homepage": "https://github.com/punker76/kaxaml",
+    "url": "https://github.com/punker76/kaxaml/releases/download/2.0.0-alpha.14/Kaxaml.v2.0.0.14.zip",
+    "hash": "a92b3aeca2a85676c2ae0fa0d1426d9f20aed83553f1c5c28131f1bf311e0045",
+    "shortcuts": [
+        [ "Kaxaml.exe", "Kaxaml" ]
+    ],
+    "checkver": {
+        "github": "https://github.com/punker76/kaxaml"
+    }
+}
