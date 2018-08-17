@@ -2,7 +2,7 @@
     "homepage": "https://www.yworks.com/products/yed",
     "version": "3.18.1.1",
     "url": "https://www.yworks.com/resources/yed/demo/yEd-3.18.1.1.zip",
-    "hash": "D40E3E1803E3C343271E161A36A6FF887E5CC624BCB6074F36997AB9BD78A182",
+    "hash": "FE24FB59A537C2CC03E8A3D78D87F10C6D81714371BE5ED40CC2D7295160804A",
     "shortcuts": [
         [ "yed.jar", "yEd Graph Editor" ]
     ]
