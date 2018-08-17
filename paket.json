@@ -2,9 +2,9 @@
     "homepage": "https://fsprojects.github.io/Paket",
     "description": "A dependency manager for .NET.",
     "license": "MIT",
-    "version": "5.174.5",
-    "url": "https://github.com/fsprojects/Paket/releases/download/5.174.5/paket.bootstrapper.exe#/paket.exe",
-    "hash": "3D2D1A4AE184388D32C208BF72FF31F2DEAD5FAD400D0D73BE0049389B8C974D",
+    "version": "5.176.6",
+    "url": "https://github.com/fsprojects/Paket/releases/download/5.176.6/paket.bootstrapper.exe#/paket.exe",
+    "hash": "4188C5C94D02E4A9C6FC03BBAC4ADD00E40D062CBFBA2AD694FBD0C230F95924",
     "bin": "paket.exe",
     "checkver": {
         "github": "https://github.com/fsprojects/Paket"
