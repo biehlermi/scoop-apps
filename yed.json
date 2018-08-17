@@ -5,5 +5,6 @@
     "hash": "FE24FB59A537C2CC03E8A3D78D87F10C6D81714371BE5ED40CC2D7295160804A",
     "shortcuts": [
         [ "yed.jar", "yEd Graph Editor" ]
-    ]
+    ],
+    "extract_dir": "yed-3.18.1.1",
 }
