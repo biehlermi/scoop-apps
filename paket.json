@@ -4,7 +4,7 @@
     "license": "MIT",
     "version": "5.184.0",
     "url": "https://github.com/fsprojects/Paket/releases/download/5.184.0/paket.bootstrapper.exe#/paket.exe",
-    "hash": "8355C11C1F50764009A69F1EE4A8772112F9B76121DFF1CED221372B4DE481B8",
+    "hash": "ADFC2AED6FC442E68661419149A056CAF8BB57E764DD94C2EA8F4E1025762361",
     "bin": "paket.exe",
     "checkver": {
         "github": "https://github.com/fsprojects/Paket"
