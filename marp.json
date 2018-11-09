@@ -1,0 +1,12 @@
+{
+    "version": "0.0.13",
+    "homepage": "https://github.com/yhatt/marp/",
+    "url": "https://github.com/yhatt/marp/releases/download/v0.0.13/0.0.13-Marp-win32-x64.zip",
+    "hash": "068A39042ACBD73FF3BECC9BDC20A8E43A183D3FFF2EF7E2F3105F38B28D44FC",
+    "shortcuts": [
+        [ "Marp.exe", "Marp" ]
+    ],
+    "checkver": {
+        "github": "https://github.com/yhatt/marp"
+    }
+}
